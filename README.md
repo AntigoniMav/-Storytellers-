@@ -104,7 +104,7 @@
 https://digipad.app/p/767105/17b65e3296ed7 
 
 Ενδεικτικά:
-![image]
+![image] (https://github.com/AntigoniMav/-Storytellers-/blob/main/%CE%99%CF%83%CF%84%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B11)
 ![image]
 ![image]
 
